@@ -20,7 +20,11 @@ orders – число заказов за месяц
 
 В анализе использованы следующие инструменты:
 Tukey test
+
+
 Shapiro-Wilk test
+
 one-way ANOVA
+
 two-way ANOVA
 
